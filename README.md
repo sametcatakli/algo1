@@ -1,4 +1,4 @@
-# Programmation et Algorithmique I
+# Programmation et Algorithmique I (Moodle: https://tinyurl.com/2jlg4gdt)
 
 Ce dépôt contient tous les Tp ainsi que des fiches explicatives et vidéo externes au cours
 
