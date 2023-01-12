@@ -18,4 +18,8 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 
 ## 4. Fiche théorique complexité
 
-- voir fichier pdf dans le dépôt
+- Voir fichier pdf dans le dépôt
+
+## 5. Cheatsheet UCL
+
+- Voir fichier pdf dans le dépôt
