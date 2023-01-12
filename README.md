@@ -16,3 +16,6 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 
 - Video de *Wandida EPLF* : https://youtu.be/clZ4q5zPBlE<br>
 
+## 4. Fiche théorique complexité
+
+- voir fichier pdf dans le dépôt
