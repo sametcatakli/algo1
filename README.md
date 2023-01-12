@@ -7,12 +7,10 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 
 - Playlist de *Graven - Développement* : https://youtu.be/psaDHhZ0cPs (11 vidéos)<br>
 - Playlist de *FormationVidéo* : https://youtu.be/HWxBtxPBCAc (43 vidéos)<br>
-<br>
 
 ## 2. Un algorithme c'est quoi ?
 
 - Playlist de *Mohamed Chiny* : https://youtu.be/kk6YbA5I-Iw (14 vidéos, la dernière parle de la complexité)<br>
-<br>
 
 ## 3. La complexité algorithmique
 
