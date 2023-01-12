@@ -1,7 +1,7 @@
 # Programmation et Algorithmique I
 ### Page Moodle du cours : https://tinyurl.com/2jlg4gdt
 
-Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* de l'*UMONS* ainsi que des fiches explicatives et vidéo externes au cours
+Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* de l'*UMONS* ainsi que des fiches explicatives et des vidéos externes au cours
 
 ## 1. Apprendre python
 
