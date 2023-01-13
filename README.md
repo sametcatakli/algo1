@@ -15,10 +15,7 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 ## 3. La complexité algorithmique
 
 - Video de *Wandida EPLF* : https://youtu.be/clZ4q5zPBlE<br>
-
-### 3.5. Fiche théorique complexité
-
-  - Voir fichier pdf dans le dépôt
+- Fiche théorique complexité: Voir fichier pdf dans le dépôt
   
 # 4. Récursivité
 
