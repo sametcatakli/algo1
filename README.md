@@ -17,7 +17,7 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 - Video de *Wandida EPLF* : https://youtu.be/clZ4q5zPBlE<br>
 - Fiche théorique complexité: Voir fichier pdf dans le dépôt
   
-# 4. Récursivité
+## 4. Récursivité
 
 - Fiche théorique : https://tinyurl.com/2nz2z3d9
 - Vidéo de *Mohamed Chiny* : https://youtu.be/HMKsnbWWNIc
