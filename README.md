@@ -22,7 +22,7 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 - Fiche théorique : https://tinyurl.com/2nz2z3d9
 - Vidéo de *Mohamed Chiny* : https://youtu.be/HMKsnbWWNIc
 
-**Note:Pour comprendre certains concepts compliqués, vous pouvez utiliser *Python Tutor* pour comprendre ce qui se passe lorsqu'on exécute une fonction **: https://tinyurl.com/2ou7q2vu
+**Note:Pour comprendre certains concepts compliqués, vous pouvez utiliser** *Python Tutor* **pour comprendre ce qui se passe lorsqu'on exécute une fonction **: https://tinyurl.com/2ou7q2vu
 
 ## 5. Cheatsheet UCL
 
