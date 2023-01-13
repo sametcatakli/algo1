@@ -24,6 +24,12 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 
 **Note: Pour comprendre certains concepts compliqués, vous pouvez utiliser _Python Tutor_ pour comprendre ce qui se passe lorsqu'on exécute une fonction** : https://tinyurl.com/2ou7q2vu
 
-## 5. Cheatsheet UCL
+##5. Itération
+### 5.1 Boucle While
+  - Vidéo de *Mohamed Chiny* : https://youtu.be/GDgGXccQ6q0
+### 5.2 Boucle For
+  - Vidéo de *Mohamed Chiny* : https://youtu.be/rSfQgLGeHSI
+  
+## 6. Cheatsheet UCL
 
 - Voir fichier pdf dans le dépôt
