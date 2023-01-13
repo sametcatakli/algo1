@@ -30,6 +30,6 @@ Ce dépôt contient tous les Tp du cours de *Programmation et Algorithmique I* d
 ### 5.2 Boucle For
   - Vidéo de *Mohamed Chiny* : https://youtu.be/rSfQgLGeHSI
   
-## 6. Cheatsheet UCL
+## 6. Autres
 
-- Voir fichier pdf dans le dépôt
+- Cheatsheet UCL : Voir fichier pdf dans le dépôt
